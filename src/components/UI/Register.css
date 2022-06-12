@@ -1,0 +1,24 @@
+.reg {
+  height: 400px;
+  width: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: none;
+  border-radius: 10px;
+  background-color: blue;
+  font-weight: 600;
+  box-shadow: 0 0 2em hsl(231deg 62% 94%);
+  border: 3px solid #f1f1f1;
+  left: 50%;
+  top: 70%;
+  margin-left: -9%;
+  position: absolute;
+  margin-top: -25%;
+}
+
+.input-container {
+  width: 10em;
+  flex-direction: column;
+  border-radius: 30px;
+}
